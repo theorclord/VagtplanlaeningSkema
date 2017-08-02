@@ -12,8 +12,8 @@ namespace VagtSkemaGeneration
   {
     static void Main(string[] args)
     {
-      DateTime startDate = new DateTime(2017, 4,24);
-      DateTime endDate = new DateTime(2017,6,24);
+      DateTime startDate = new DateTime(2017, 8,28);
+      DateTime endDate = new DateTime(2017,11,19);
 
       DateTime currentDate = startDate;
       string header = @"Herunder følger datoer i blok 4.
@@ -34,7 +34,7 @@ Hvis du har kommentarer, så skriv dem her, så er der større chance for at vi 
 * *Fredag: Åbner 12 - 20, lukker fra 20 - 03 + oprydning.
 
 || border = 1
-|| !Dato || !Dag || !Uge || !Bemærkning || !Preference
+||!Dato ||!Dag ||!Uge ||!Bemærkning ||!Preference||
 
 ";
       StringBuilder finalStr = new StringBuilder();
