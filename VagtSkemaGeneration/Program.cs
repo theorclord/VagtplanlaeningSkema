@@ -28,7 +28,7 @@ Hvis du har kommentarer, så skriv dem her, så er der større chance for at vi 
 '''Åbne- og lukketider'''
 
 * *Rengøringsdage: Åbner 12 - 16, lukker fra 16 -??
-**Mandag: Åbner 12 - 17, lukker fra 17 - 22
+* *Mandag: Åbner 12 - 17, lukker fra 17 - 22
 * *Tirsdag / onsdag: Åbner 12 - 16, lukker fra 16 - 19.
 * *Torsdag: Åbner 12 - 17, lukker fra 17 - 22.
 * *Fredag: Åbner 12 - 20, lukker fra 20 - 03 + oprydning.
